@@ -1,4 +1,10 @@
-﻿Description
+﻿Note
+====
+
+This project is a work-in-progress as the Riak .NET Client team works on
+the official 2.0 release.
+
+Description
 ===========
 
 This sample application demonstrates how to store and retrieve binary image files using CorrugatedIron. It's a simple Winforms application with the sole purpose of demonstrating how to deal with binary files.
